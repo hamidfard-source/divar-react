@@ -1,4 +1,4 @@
-# divar=react
+# divar-react
 
 ## how to run this project ?
 This is a simplified example of the [divar.ir](https://divar.ir/s/tehran) website. To run the backend, you need to go to [rjs-divar-api](https://github.com/hamidfard-source/rjs-divar-api/tree/main).
