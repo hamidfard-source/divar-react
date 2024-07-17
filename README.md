@@ -1,8 +1,19 @@
-# React + Vite
+# divar=react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## how to run this project ?
+This is a simplified example of the [divar.ir](https://divar.ir/s/tehran) website. To run the backend, you need to go to [rjs-divar-api](https://github.com/hamidfard-source/rjs-divar-api/tree/main).
 
-Currently, two official plugins are available:
+### Usage
+Download the files and then run the command in the same directory:
+```bash
+npm start
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
